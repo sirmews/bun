@@ -106,4 +106,7 @@ export default [
   ["ERR_AWS_INVALID_PATH", Error],
   ["ERR_AWS_INVALID_ENDPOINT", Error],
   ["ERR_AWS_INVALID_SIGNATURE", Error],
+
+  // S3
+  ["ERR_S3_FILE_NOT_FOUND", Error],
 ] as ErrorCodeMapping;
